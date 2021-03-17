@@ -1,4 +1,6 @@
-# portfolio
+# Portfolio
+
+_WIP DON'T LOOK AT ME I'M SO UGLY OH GOD_
 
 ## Build Setup
 
